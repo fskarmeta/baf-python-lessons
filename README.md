@@ -7,4 +7,4 @@
 
 ### Students: clauclauclau, hazer, blamenoise
 
-### helpers: Trucho
+### helpers: Trucho and stackoverflow
